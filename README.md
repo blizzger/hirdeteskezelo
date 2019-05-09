@@ -1,0 +1,2 @@
+# hirdeteskezelo
+Ingatlanhírdetés kezelő weboldal
